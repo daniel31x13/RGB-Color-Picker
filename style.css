@@ -1,0 +1,30 @@
+#base {
+    padding: 2%;
+    margin: 1%;
+    width: 200px;
+    height: 450px;
+    -webkit-box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.4);
+    -moz-box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.4);
+    box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.4);
+}
+
+#canvas {
+    background-color: rgb(127, 127, 127);
+    height: 200px;
+    width: 200px;
+    -webkit-box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.4);
+    -moz-box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.4);
+    box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.4);
+}
+
+input {
+    float: left;
+    clear: left;
+    width: 200px;
+}
+
+p {
+    float: left;
+    clear: left;
+    font-family: sans-serif;
+}

@@ -1,3 +1,3 @@
 # RGB-Color-Picker
 Did it just for fun :)
-![Screenshot](/assets/Screenshot.png | width=200))
+<img src="/assets/Screenshot.png" alt="Screenshot" width="200">
